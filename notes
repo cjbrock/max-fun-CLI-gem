@@ -1,0 +1,11 @@
+1. Plan the gem, imagine the interface
+  - user runs program, is greeted with "welcome to the maximum fun comedy podcast inventory"
+  - "to view a list of podcasts and hosts, enter 'list podcasts'"
+  - "to search for podcasts with a specific host, enter the host name"
+  - "to search for podcasts by name, enter the name"
+  - "enter the number of a podcast for more details"
+  - more details prints show name and hosts, plus show description and a description of the latest episode
+  - "would you like to listen to the latest episode"
+  - if yes, open window, if no, return to start menu
+
+  2. 
